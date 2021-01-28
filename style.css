@@ -1,13 +1,16 @@
-<html>
-  <head>
-
-    <link rel="stylesheet" href="mystyle.css">
-
-  </head>
-
-  <body>
-
-    <h2>Trivi_Homepage</h2>
-
-  </body>
-</html>
+body{
+  background-color:azure;
+  color:black;
+}
+#Table{
+  background-color: royalblue
+}
+#Temperature{
+  background-color: turquoise
+}
+#Humidity{
+  background-color: aqua
+}
+.Table_class{
+  font-family: Arial, Helvetica, sans-serif;
+}
